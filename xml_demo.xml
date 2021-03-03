@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="comp20_xmlstyle.css" ?>
+<Students>
+    <Student>
+        <Name>
+            <FirstName>Sally</FirstName>
+            <LastName>Student</LastName>
+        </Name>
+        <ID>1414</ID>
+        <GradeAverage>93</GradeAverage>
+    </Student>
+    
+    <Student>
+        <Name>
+            <FirstName>Jake</FirstName>
+            <LastName>Gallagher</LastName>
+        </Name>
+        <ID>124124</ID>
+        <GradeAverage>39</GradeAverage>
+    </Student>
+</Students>

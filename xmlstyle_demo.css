@@ -1,0 +1,18 @@
+Student {
+    display: block;
+    border-bottom: 1px solid black;
+    padding: 8px 30px;
+}
+
+Student Name {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+Student ID {
+    display: block;
+}
+
+Student ID:before {
+    content: "id: ";
+}
